@@ -6,8 +6,8 @@ import FilterInput from "./FilterInput.js";
 import Gists from "./Gists.js";
 import GitHubCorner from "./GitHubCorner.js";
 
-const USERNAME = "MichaelCurrin";
-const REPO_NAME = "gist-viewer";
+const USERNAME = "akhyarrh";
+const REPO_NAME = "gists";
 
 const app = createApp({
   components: {
